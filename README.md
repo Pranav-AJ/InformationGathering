@@ -52,9 +52,21 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 # NetCAt
 ![image](https://github.com/Pranav-AJ/InformationGathering/assets/118904526/a4a65381-0c44-4d18-96ee-41840b40b9f5)
 
+# httprint
+![image](https://github.com/Pranav-AJ/InformationGathering/assets/118904526/7d5baa1c-d158-49d0-9650-6d1a63202899)
 
-# TRACEROUTE
+# ICMP TRACEROUTE
 ![image](https://github.com/Pranav-AJ/InformationGathering/assets/118904526/adb1ab37-20aa-40c7-83af-97addac6d93e)
+
+# UDP TRACEROUTE
+![image](https://github.com/Pranav-AJ/InformationGathering/assets/118904526/c232eb94-5832-4852-b06e-e78633652989)
+
+# WHATWEB
+![image](https://github.com/Pranav-AJ/InformationGathering/assets/118904526/23361b96-35f1-4836-b3ff-9918e56f33f0)
+
+# Nmap
+![image](https://github.com/Pranav-AJ/InformationGathering/assets/118904526/f859d61a-066f-411e-9b75-a60fbb963468)
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
